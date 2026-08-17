@@ -1,0 +1,14 @@
+Precedência dos operadores em C
+() []        Associatividade: da esquerda para a direita
+ ! - ++ --   Associatividade: da direita para a esquerda
++ -         Associatividade: da esquerda para a direita
+ * / %       Associatividade: da esquerda para a direita
+ + -         Associatividade: da esquerda para a direita
+ < <= > >=   Associatividade: da esquerda para a direita
+== !=       Associatividade: da esquerda para a direita
+ &&          Associatividade: da esquerda para a direita
+||          Associatividade: da esquerda para a direita
+= += -= *= /= %=   Associatividade: da direita para a esquerda
+ , (vírgula)        Associatividade: da esquerda para a direita
+
+   
